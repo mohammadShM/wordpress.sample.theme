@@ -1,0 +1,5 @@
+# Created by .ignore support plugin (hsz.mobi)
+# git checkout -b mohammadShM => for create branch
+# git checkout master => switch to branch master
+# git merge "mohammadShM" => for add change files in branch mohammadShM to master
+.idea
